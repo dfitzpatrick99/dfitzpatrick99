@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python and Rust, among other things.
 - 💞️ I’m looking to collaborate on any project so I can learn the process.
 - 📫 How to reach me: declan.b.fitzpatrick@gmail.com
+- 👔 LinkedIn: [@dfitzpatrick99](https://www.linkedin.com/in/dfitzpatrick99/)
 - ⚠️ NOTE: Most of my repositories are private due to academic limitations. They are gladly available upon request, however.
 
 <!---
