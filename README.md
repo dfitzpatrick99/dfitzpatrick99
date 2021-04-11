@@ -1,3 +1,5 @@
+I have a GitHub Pages [website](https://dfitzpatrick99.github.io/)!
+
 - 👋 Hi, I’m @dfitzpatrick99
 - 👀 I’m interested in the tricks of the trade (and also a summer internship!).
 - 🌱 I’m currently learning Python and Rust, among other things.
