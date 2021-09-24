@@ -1,6 +1,6 @@
 - 🌎 I have a GitHub Pages [website](https://dfitzpatrick99.github.io/)!
 - ⚠️ NOTE: Most of my repositories are private due to academic limitations. They are gladly available upon request, however. Apologies for the inconvenience.
-
+  
 - 👋 Hi, I’m Declan Fitzpatrick (@dfitzpatrick99)
 - 👀 I’m interested in post-graduation employment opportunities.
 - 💡 I'm proficient in C++ and Java, as well as some C and AVR Assembly.
